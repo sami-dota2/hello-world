@@ -1,3 +1,2 @@
 # hello-world
-Umm...
-My name is Daryl Samson.
+Hello fucking world.
